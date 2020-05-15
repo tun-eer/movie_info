@@ -1,3 +1,3 @@
-# Movie App
+# Movie Info
 
-React Fundaments
+Info About Movies
